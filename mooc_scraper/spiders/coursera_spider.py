@@ -6,7 +6,7 @@ class CourseraSpider(scrapy.Spider):
     name = "coursera"
 
     start_urls = [
-        "https://www.coursera.org/search?query=maths"
+        "https://www.coursera.org/search?query=AI"
     ]
 
 
